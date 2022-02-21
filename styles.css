@@ -146,11 +146,6 @@ body{
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-
-
-
-
-
 @media screen and (max-width: 480px) {
     .menu nav{
         font-size: 18px;

@@ -78,7 +78,7 @@ body{
   /* section2 */
   .section2{
     background-color: #294fb3;
-    background-image: url('what.jpg');
+    background-image: url('./views/what.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
